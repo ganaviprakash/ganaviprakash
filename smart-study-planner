@@ -1,1 +1,16 @@
+# Smart Study Planner
 
+A simple tool that helps students organize their study schedule based on available time.
+
+## Features
+- Add subjects
+- Allocate study time
+- Generate a simple study plan
+
+## Tech Used
+- Python
+
+## Future Improvements
+- Web interface
+- Mobile version
+- Reminder notifications

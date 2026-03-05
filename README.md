@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hello! I'm Ganavi 👩‍💻
 
-<!--
-**ganaviprakash/ganaviprakash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who I Am
+I'm a curious student exploring the world of technology and software development.  
+I enjoy learning new tools, experimenting with ideas, and building small projects that solve everyday problems.
 
-Here are some ideas to get you started:
+## What I'm Learning
+- Python Programming
+- Web Development (HTML, CSS, JavaScript)
+- Git & GitHub for version control
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Areas That Interest Me
+- Artificial Intelligence
+- Problem Solving
+- Building practical tech solutions
+- Participating in Hackathons
+
+## Projects I'm Working On
+- Smart Study Planner
+- Habit Tracker
+- Weather App
+
+## Goal
+To continuously improve my coding skills, collaborate with other developers, and build meaningful technology.
